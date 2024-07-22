@@ -1,6 +1,6 @@
 # SQL_Projects
 
-## A cleaning data project in MySQL
+## Cleaning Data Project in MySQL
 
 - Utilized SQL to analyze data science job listings and clean the data
 - Performed data and text analysis to successfully identify the major parts of the dataset
